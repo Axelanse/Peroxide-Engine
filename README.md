@@ -1,3 +1,3 @@
 # Peroxide-Engine
-A post processing shadering engine for roblox.
+A post processing shading engine for roblox.
 Copyright (c) 2023 axell
