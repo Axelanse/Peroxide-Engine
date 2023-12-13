@@ -1,5 +1,5 @@
 # Peroxide-Engine
-###### An plugin engine for roblox.
+###### this repo is not used anymore, peroxide has moved.
 ###### Copyright (c) 2023 axell
-###### peroxide is getting a remaster, which will hopefully actually make it useful aswell as stable!
+###### this is only up to provide functionality to old peroxide client, however, they will stop functioning on the 1st of march 2024
 ###### https://discord.gg/gGgapaA6Dy
